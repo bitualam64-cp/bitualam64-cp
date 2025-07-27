@@ -1,5 +1,5 @@
-<a href="https://iconscout.com/lottie-animations/github" class="text-underline font-size-sm" target="_blank">Github</a> by <a href="https://iconscout.com/contributors/babaleo" class="text-underline font-size-sm">Babaleo</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>
-
+[<a href="https://iconscout.com/lottie-animations/github" class="text-underline font-size-sm" target="_blank">Github</a> by <a href="https://iconscout.com/contributors/babaleo" class="text-underline font-size-sm">Babaleo</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>
+](https://github.com/Ubaid2116/Ubaid2116)
  <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nitu+Alam!;" />
 </h1>
