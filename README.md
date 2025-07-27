@@ -1,14 +1,13 @@
-[<a href="https://iconscout.com/lottie-animations/github" class="text-underline font-size-sm" target="_blank">Github</a> by <a href="https://iconscout.com/contributors/babaleo" class="text-underline font-size-sm">Babaleo</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>
-](https://github.com/Ubaid2116/Ubaid2116)
+
  <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nitu+Alam!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bitu+Alam!;" />
 </h1>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=CoderNitu&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=bitualam64-cp&style=for-the-badge">
 </p>
 
- <h3 align="center">𝘼𝙪𝙩𝙤𝙢𝙖𝙩𝙚𝙙 𝙎𝙮𝙨𝙩𝙚𝙢 𝙚𝙣𝙩𝙝𝙪𝙨𝙞𝙖𝙨𝙩𝙨 👩‍💻| 𝙋𝙧𝙤𝙛𝙞𝙘𝙞𝙚𝙣𝙩 𝙞𝙣 𝙋𝙮𝙩𝙝𝙤𝙣, 𝙎𝙌𝙇, 𝙋𝙤𝙬𝙚𝙧 𝘽𝙄, 𝙈𝙇, 𝘼𝙄, 𝙉𝙇𝙋 | 𝙋𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝙖𝙗𝙤𝙪𝙩 𝙏𝙧𝙖𝙣𝙨𝙛𝙤𝙧𝙢𝙞𝙣𝙜 𝘿𝙖𝙩𝙖 𝙞𝙣𝙩𝙤 𝘼𝙘𝙩𝙞𝙤𝙣𝙖𝙗𝙡𝙚 𝙄𝙣𝙨𝙞𝙜𝙝𝙩𝙨👁‍🗨</h3>
+ <h3 align="center">Debugging the dataverse—one query, one model, one insight at a time</h3>
 
 <br/>
 
@@ -19,7 +18,7 @@
 
 🥅 𝖦𝗈𝖺𝗅𝗌: 𝗟𝗲𝗮𝗿𝗻 𝗮𝗻𝗱 𝗯𝘂𝗶𝗹𝗱 𝘀𝗼𝗺𝗲𝘁𝗵𝗶𝗻𝗴 new 𝗼𝗳 𝗺𝘆 𝗼𝘄𝗻
 
-📫 𝖢𝗈𝗇𝗍𝖺𝖼𝗍 𝗆𝖾 𝖺𝗍: *nitualam07@gmail.com*
+📫 𝖢𝗈𝗇𝗍𝖺𝖼𝗍 𝗆𝖾 𝖺𝗍: *bitualam64@gmail.com*
 
 ⚡ 𝖥𝗎𝗇 𝖿𝖺𝖼𝗍: *𝖨𝗍'𝗌 𝖿𝗋𝖾𝖾 𝗍𝗈 𝗎𝗌𝖾 𝗈𝗎𝗋 𝖻𝗋𝖺𝗂𝗇*
 
