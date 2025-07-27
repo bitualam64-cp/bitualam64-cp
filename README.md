@@ -72,8 +72,8 @@
 <br>
 <div align=center>
 
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=CoderNitu&show_icons=true&locale=en&layout=compact" alt="CoderNitu" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=CoderNitu&show_icons=true&locale=en&layout=compact" alt="bitualam64-cp" />
    <br>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=CoderNitu&" alt="CoderNitu" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=bitualam64-cp&" alt="bitualam64-cp" />
   
   </div>
